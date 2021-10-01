@@ -1,11 +1,11 @@
-<?php
+<?php error_reporting (E_ALL ^ E_NOTICE);
 /*****************************************************************
-Created :  5/8/2009
-Author : Mr. Khwanchai Kaewyos (LookHin)
-E-mail : khwanchai@gmail.com
-Website : www.LookHin.com
-Blog : www.unzeen.com
-Copyright (C) 2005-2009, www.LookHin.com all rights reserved.
+File Name : class.inc.php
+Created :01/10/2021
+Author : worapot bhilarbutra (pros.ake)
+E-mail : worapot.bhi@gmail.com
+Website : https://www.vpslive.com
+Copyright (C) 2021-2025, VPS Live Digital togethers all rights reserved.
 *****************************************************************/
 
 /**
